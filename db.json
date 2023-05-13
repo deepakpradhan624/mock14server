@@ -1,20 +1,20 @@
 {
   "data": [
 	{
-		"id":1,
 		"name": "Dark Chocolate",
-		"Flavor": "Chocolate",
-		"Description": "Rich, creamy chocolate ice cream.",
-		"Price": 250,
-		"Stock": 10
-	},
-	{
-		"id":2,
+		"price": 250,
+		"flavor": "chocolate",
+		"description": "Rich, creamy chocolate ice cream.",
+		"stock": 24,
+		"id": 1
+		},
+		{
 		"name": "Neapolitan",
-		"Flavor": "Strawberry",
-		"Description": "Fresh and fruity strawberry ice cream.",
-		"Price": 300,
-		"Stock": 8
-	}
+		"price": 300,
+		"flavor": "strawberry",
+		"description": "Fresh and fruity strawberry ice cream.",
+		"stock": 8,
+		"id": 2
+		}
 ]
 }
