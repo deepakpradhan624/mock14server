@@ -1,20 +1,39 @@
 {
-  "data": [
-	{
-		"name": "Dark Chocolate",
-		"price": 250,
-		"flavor": "chocolate",
-		"description": "Rich, creamy chocolate ice cream.",
-		"stock": 24,
+	"users": [
+	  {
+		"fullName": "deepak",
+		"email": "deepak@gmail.com",
+		"password": "deepak",
 		"id": 1
-		},
-		{
-		"name": "Neapolitan",
-		"price": 300,
-		"flavor": "strawberry",
-		"description": "Fresh and fruity strawberry ice cream.",
-		"stock": 8,
+	  },
+	  {
+		"fullName": "pradhan",
+		"email": "pradhan@gmail.com",
+		"password": "pradhan",
 		"id": 2
-		}
-]
-}
+	  }
+	],
+	"trackers": [
+	  {
+		"type": "Expense",
+		"category": "Housing",
+		"amount": "65413",
+		"date": "2023-05-18",
+		"id": 3
+	  },
+	  {
+		"type": "Expense",
+		"category": "Housing",
+		"amount": "235",
+		"date": "2023-05-16",
+		"id": 4
+	  },
+	  {
+		"type": "Income",
+		"category": "Housing",
+		"amount": "645421",
+		"date": "2023-05-16",
+		"id": 5
+	  }
+	]
+  }
